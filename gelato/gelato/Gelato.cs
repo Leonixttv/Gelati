@@ -1,48 +1,49 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace gelato
+namespace Gelato
 {
-        public class Gelato
-        {
-            public Gelato() { }
-            public int idGelato { get; set; }
-            public string nome { get; set; }
-            public string descrizione { get; set; }
-            public float prezzo { get; set; }
+    internal class Gelato
+    {
+        protected int _idGelato;
+        private string _name;
+        private string _description;
+        private string _prezzo;
 
-            public Gelato(string riga)
-            {
-                string[] campi = riga.Split(';');
-                int id = 0;
-                int.TryParse(campi[0], out id);
-                idGelato = id;
-                nome = campi[1];
-                descrizione = campi[2];
-                float p = 0;
-                float.TryParse(campi[3], out p);
-                prezzo = p;
-            }
+        public Gelato(string g)
+        {
+            string[] s = g.Split(';');
+            _idGelato = int.Parse(s[0]);
+            _name = s[1];
+            _description = s[2];
+            _prezzo = s[3];
         }
 
-        public class Gelati : List<Gelato>
+        public int Id
         {
-            public Gelati() { }
-
-            public Gelati(string nomeFile)
-            {
-                StreamReader fin = new(nomeFile);
-                fin.ReadLine();
-                while (!fin.EndOfStream)
-                {
-                    base.Add(new Gelato(fin.ReadLine()));
-                }
-                fin.Close();
-            }
+            get { return _idGelato; }
         }
 
+        public string Nome { get => _name; set => _name = value; }
+        public string Descrizione { get => _description; set => _description = value; }
+        public string Prezzo { get => _prezzo; set => _prezzo = value; }
+    }
+    internal class Gelati : List<Gelato>
+    {
+        public Gelati(string file)
+        {
+            StreamReader sr = new StreamReader(file);
+            sr.ReadLine();
+            while (!sr.EndOfStream)
+            {
+                Gelato g = new Gelato(sr.ReadLine());
+                Add(g);
+            }
+        }
+    }
 }

@@ -1,30 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\leona\\OneDrive\\Desktop\\gelato\\",
+  "WorkspaceRootPath": "C:\\Users\\leona\\OneDrive\\Documenti\\GitHub\\Gelati\\gelato\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8FB988C5-5568-494E-BBAA-4696C4471E52}|gelato\\gelato.csproj|c:\\users\\leona\\onedrive\\desktop\\gelato\\gelato\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FB988C5-5568-494E-BBAA-4696C4471E52}|gelato\\gelato.csproj|solutionrelative:gelato\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FB988C5-5568-494E-BBAA-4696C4471E52}|gelato\\gelato.csproj|c:\\users\\leona\\onedrive\\desktop\\gelato\\gelato\\ingrediente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8FB988C5-5568-494E-BBAA-4696C4471E52}|gelato\\gelato.csproj|c:\\users\\leona\\onedrive\\documenti\\github\\gelati\\gelato\\gelato\\ingrediente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FB988C5-5568-494E-BBAA-4696C4471E52}|gelato\\gelato.csproj|solutionrelative:gelato\\ingrediente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FB988C5-5568-494E-BBAA-4696C4471E52}|gelato\\gelato.csproj|c:\\users\\leona\\onedrive\\desktop\\gelato\\gelato\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8FB988C5-5568-494E-BBAA-4696C4471E52}|gelato\\gelato.csproj|solutionrelative:gelato\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{8FB988C5-5568-494E-BBAA-4696C4471E52}|gelato\\gelato.csproj|c:\\users\\leona\\onedrive\\documenti\\github\\gelati\\gelato\\gelato\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB988C5-5568-494E-BBAA-4696C4471E52}|gelato\\gelato.csproj|solutionrelative:gelato\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FB988C5-5568-494E-BBAA-4696C4471E52}|gelato\\gelato.csproj|c:\\users\\leona\\onedrive\\desktop\\gelato\\gelato\\ingredienti.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8FB988C5-5568-494E-BBAA-4696C4471E52}|gelato\\gelato.csproj|solutionrelative:gelato\\ingredienti.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FB988C5-5568-494E-BBAA-4696C4471E52}|gelato\\gelato.csproj|c:\\users\\leona\\onedrive\\desktop\\gelato\\gelato\\gelato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8FB988C5-5568-494E-BBAA-4696C4471E52}|gelato\\gelato.csproj|c:\\users\\leona\\onedrive\\documenti\\github\\gelati\\gelato\\gelato\\gelato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FB988C5-5568-494E-BBAA-4696C4471E52}|gelato\\gelato.csproj|solutionrelative:gelato\\gelato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FB988C5-5568-494E-BBAA-4696C4471E52}|gelato\\gelato.csproj|c:\\users\\leona\\onedrive\\desktop\\gelato\\gelato\\gelati.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8FB988C5-5568-494E-BBAA-4696C4471E52}|gelato\\gelato.csproj|solutionrelative:gelato\\gelati.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{8FB988C5-5568-494E-BBAA-4696C4471E52}|gelato\\gelato.csproj|c:\\users\\leona\\onedrive\\documenti\\github\\gelati\\gelato\\gelato\\tipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB988C5-5568-494E-BBAA-4696C4471E52}|gelato\\gelato.csproj|solutionrelative:gelato\\tipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB988C5-5568-494E-BBAA-4696C4471E52}|gelato\\gelato.csproj|c:\\users\\leona\\onedrive\\documenti\\github\\gelati\\gelato\\gelato\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8FB988C5-5568-494E-BBAA-4696C4471E52}|gelato\\gelato.csproj|solutionrelative:gelato\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\leona\\AppData\\Local\\Temp\\.vsdbgsrc\\de340a16ce2e44a2cbc7092cbb90ce2646032188cac7f72faf6e2a0b7ab0cc8d\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,86 +33,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Ingredienti.csv",
-              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Desktop\\gelato\\gelato\\Ingredienti.csv",
-              "RelativeDocumentMoniker": "gelato\\Ingredienti.csv",
-              "ToolTip": "C:\\Users\\leona\\OneDrive\\Desktop\\gelato\\gelato\\Ingredienti.csv",
-              "RelativeToolTip": "gelato\\Ingredienti.csv",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2024-03-13T07:28:26.879Z",
+              "DocumentIndex": 5,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\AppData\\Local\\Temp\\.vsdbgsrc\\de340a16ce2e44a2cbc7092cbb90ce2646032188cac7f72faf6e2a0b7ab0cc8d\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\de340a16ce2e44a2cbc7092cbb90ce2646032188cac7f72faf6e2a0b7ab0cc8d\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\leona\\AppData\\Local\\Temp\\.vsdbgsrc\\de340a16ce2e44a2cbc7092cbb90ce2646032188cac7f72faf6e2a0b7ab0cc8d\\XamlReader.cs [Sola lettura]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\de340a16ce2e44a2cbc7092cbb90ce2646032188cac7f72faf6e2a0b7ab0cc8d\\XamlReader.cs [Sola lettura]",
+              "ViewState": "AQIAAOkBAAAAAAAAAAAIwP4BAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T07:36:02.022Z",
+              "EditorCaption": " [Sola lettura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documenti\\GitHub\\Gelati\\gelato\\gelato\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "gelato\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documenti\\GitHub\\Gelati\\gelato\\gelato\\MainWindow.xaml",
+              "RelativeToolTip": "gelato\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-20T07:29:56.495Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Ingrediente.cs",
-              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Desktop\\gelato\\gelato\\Ingrediente.cs",
-              "RelativeDocumentMoniker": "gelato\\Ingrediente.cs",
-              "ToolTip": "C:\\Users\\leona\\OneDrive\\Desktop\\gelato\\gelato\\Ingrediente.cs",
-              "RelativeToolTip": "gelato\\Ingrediente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documenti\\GitHub\\Gelati\\gelato\\gelato\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "gelato\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documenti\\GitHub\\Gelati\\gelato\\gelato\\MainWindow.xaml.cs",
+              "RelativeToolTip": "gelato\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAIAwwB8AAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T07:27:32.464Z",
+              "WhenOpened": "2024-03-20T07:28:08.65Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Gelato.cs",
-              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Desktop\\gelato\\gelato\\Gelato.cs",
-              "RelativeDocumentMoniker": "gelato\\Gelato.cs",
-              "ToolTip": "C:\\Users\\leona\\OneDrive\\Desktop\\gelato\\gelato\\Gelato.cs",
-              "RelativeToolTip": "gelato\\Gelato.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAbAAAA",
+              "DocumentIndex": 3,
+              "Title": "tipo.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documenti\\GitHub\\Gelati\\gelato\\gelato\\tipo.cs",
+              "RelativeDocumentMoniker": "gelato\\tipo.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documenti\\GitHub\\Gelati\\gelato\\gelato\\tipo.cs",
+              "RelativeToolTip": "gelato\\tipo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T07:26:48.336Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Gelati.csv",
-              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Desktop\\gelato\\gelato\\Gelati.csv",
-              "RelativeDocumentMoniker": "gelato\\Gelati.csv",
-              "ToolTip": "C:\\Users\\leona\\OneDrive\\Desktop\\gelato\\gelato\\Gelati.csv",
-              "RelativeToolTip": "gelato\\Gelati.csv",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2024-03-13T07:25:44.154Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Desktop\\gelato\\gelato\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "gelato\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\leona\\OneDrive\\Desktop\\gelato\\gelato\\MainWindow.xaml",
-              "RelativeToolTip": "gelato\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-02-21T08:50:25.486Z",
+              "WhenOpened": "2024-03-20T07:27:42.548Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Desktop\\gelato\\gelato\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "gelato\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\leona\\OneDrive\\Desktop\\gelato\\gelato\\MainWindow.xaml.cs",
-              "RelativeToolTip": "gelato\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAIAwwBcAAAA1AAAA",
+              "Title": "Ingrediente.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documenti\\GitHub\\Gelati\\gelato\\gelato\\Ingrediente.cs",
+              "RelativeDocumentMoniker": "gelato\\Ingrediente.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documenti\\GitHub\\Gelati\\gelato\\gelato\\Ingrediente.cs",
+              "RelativeToolTip": "gelato\\Ingrediente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T08:50:22.334Z",
+              "WhenOpened": "2024-03-20T07:25:43.898Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gelato.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documenti\\GitHub\\Gelati\\gelato\\gelato\\Gelato.cs",
+              "RelativeDocumentMoniker": "gelato\\Gelato.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documenti\\GitHub\\Gelati\\gelato\\gelato\\Gelato.cs",
+              "RelativeToolTip": "gelato\\Gelato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T07:25:10.023Z",
+              "EditorCaption": ""
             }
           ]
         }

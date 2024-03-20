@@ -1,7 +1,8 @@
-﻿
-using gelato;
-using System.Security.Cryptography;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -12,35 +13,33 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace gelato
+namespace Gelato
 {
+
     public partial class MainWindow : Window
     {
-        Gelati gelati;
-        Ingredienti ingredienti;
         public MainWindow()
         {
             InitializeComponent();
-            Gelati gelati = new Gelati("Gelati.csv");
-            dataGridGelati.ItemsSource = gelati;
-            ingredienti = new Ingredienti("Ingredienti.csv");
+            Gelati g = new Gelati("Gelati.csv");
+            dataGridGelati.ItemsSource = g;
+
         }
 
         private void dataGridGelati_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             Gelato g = e.AddedItems[0] as Gelato;
-            Ingredienti ingredientiFiltrati = new Ingredienti();
-            if (g != null)
+            Ingredienti i = new Ingredienti("Ingrediente.csv");
+            Ingredienti ingredientifiltrati = new();
+            foreach (Ingrediente ing in i)
             {
-                foreach (Ingrediente item in ingredienti)
+                if (ing.IdGelato == g.Id)
                 {
-                    if (item.idGelato == g.idGelato)
-                    {
-                        ingredientiFiltrati.Add(item);
-                    }
+                    ingredientifiltrati.Add(ing);
                 }
             }
-            dataGridIngredienti.ItemsSource = ingredientiFiltrati;
+            dataGridGelati.ItemsSource = ingredientifiltrati;
+
         }
     }
 }

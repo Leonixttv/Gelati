@@ -5,40 +5,39 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace gelato
+namespace Gelato
 {
-    public enum TipoIngrediente { }
-    public class Ingrediente
+    internal class Ingrediente
     {
-        public int idGelato { get; set; }
-        public string tipo { get; set; }
-        public string valore { get; set; }
+        private int _idGelato;
+        private Tipo _tipo;
+        private string _valore;
 
-        public Ingrediente() { }
-        public Ingrediente(string riga)
+        public Ingrediente(string s)
         {
-            string[] campi = riga.Split(';');
-            int id = 0;
-            int.TryParse(campi[0], out id);
-            idGelato = id;
-            tipo = campi[1];
-            valore = campi[2];
+            string[] ar = s.Split(';');
+            _idGelato = int.Parse(ar[0]);
+            _tipo = Enum.Parse<Tipo>(ar[1]);
+            _valore = ar[2];
         }
-    }
 
-    public class Ingredienti : List<Ingrediente>
+        public int IdGelato { get => _idGelato; set => _idGelato = value; }
+        public Tipo Tipo { get => _tipo; set => _tipo = value; }
+        public string Valore { get => _valore; set => _valore = value; }
+
+    }
+    internal class Ingredienti : List<Ingrediente>
     {
         public Ingredienti() { }
-        public Ingredienti(string nomeFile)
+        public Ingredienti(string file)
         {
-            StreamReader fin = new(nomeFile);
-            fin.ReadLine();
-            while (!fin.EndOfStream)
+            StreamReader sr = new StreamReader(file);
+            sr.ReadLine();
+            while (!sr.EndOfStream)
             {
-                base.Add(new Ingrediente(fin.ReadLine()));
+                Ingrediente g = new Ingrediente(sr.ReadLine());
+                Add(g);
             }
-            fin.Close();
         }
     }
-
 }
