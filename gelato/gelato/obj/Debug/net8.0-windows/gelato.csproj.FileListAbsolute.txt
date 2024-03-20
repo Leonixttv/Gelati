@@ -1,0 +1,10 @@
+C:\Users\leona\OneDrive\Desktop\gelato\gelato\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\leona\OneDrive\Desktop\gelato\gelato\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\leona\OneDrive\Desktop\gelato\gelato\obj\Debug\net8.0-windows\gelato_MarkupCompile.cache
+C:\Users\leona\OneDrive\Desktop\gelato\gelato\obj\Debug\net8.0-windows\gelato_MarkupCompile.lref
+C:\Users\leona\OneDrive\Desktop\gelato\gelato\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\leona\OneDrive\Desktop\gelato\gelato\obj\Debug\net8.0-windows\gelato.g.resources
+C:\Users\leona\OneDrive\Desktop\gelato\gelato\obj\Debug\net8.0-windows\gelato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Desktop\gelato\gelato\obj\Debug\net8.0-windows\gelato.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Desktop\gelato\gelato\obj\Debug\net8.0-windows\gelato.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Desktop\gelato\gelato\obj\Debug\net8.0-windows\gelato.csproj.CoreCompileInputs.cache
