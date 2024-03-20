@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gelato")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb10c3940340474d9e4235ab583522dbe73280cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a7dc6cd7015952d02144db4616691f21b4bf47b")]
 [assembly: System.Reflection.AssemblyProductAttribute("gelato")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gelato")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

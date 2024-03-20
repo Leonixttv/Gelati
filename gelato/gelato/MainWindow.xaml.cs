@@ -29,7 +29,7 @@ namespace Gelato
         private void dataGridGelati_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             Gelato g = e.AddedItems[0] as Gelato;
-            Ingredienti i = new Ingredienti("Ingrediente.csv");
+            Ingredienti i = new Ingredienti("Ingredienti.csv");
             Ingredienti ingredientifiltrati = new();
             foreach (Ingrediente ing in i)
             {
